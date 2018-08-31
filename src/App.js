@@ -15,7 +15,7 @@ class App extends Component {
 					name: "John Doe",
 					image: "http://via.placeholder.com/40",
 					text: loremIpsum({
-						count: 1,
+						count: 50,
 						units: "sentences",
 						sentenceLowerBound: 4,
 						sentenceUpperBound: 8,
